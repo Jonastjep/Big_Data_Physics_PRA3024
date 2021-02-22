@@ -1,1 +1,1 @@
-
+[Click here](jonastjep.github.io/Big_Data_Physics_PRA3024/Week1_Grav_Wave/Assignment_GWDA.html) for the HTML version of the notebook: it has interactive plots. The plots don't show in the GitHub jupyter notebook visualization format (due to the use of Plotly).
